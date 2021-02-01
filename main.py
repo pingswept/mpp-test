@@ -1,7 +1,7 @@
 
 import array
 import colorsys
-from dotstar import Adafruit_DotStar
+from dotstar import Magic_Melon_Rocket_Ship
 from flask import Flask, render_template, request
 from __future__ import print_function
 import itertools
