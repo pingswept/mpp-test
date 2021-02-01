@@ -1,7 +1,7 @@
 
 import array
 import colorsys
-from dotstar import Magic_Melon_Fish_Brain
+from dotstar import Magic_Melon_Cheese_Whiz
 from flask import Flask, render_template, request
 from __future__ import print_function
 import itertools
